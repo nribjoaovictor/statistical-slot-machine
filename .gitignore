@@ -1,0 +1,24 @@
+# Ambiente virtual Python
+backend/venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Dependências do Node.js
+node_modules/
+
+# Arquivos gerados pelo Vite
+dist/
+
+# Cache de testes
+.pytest_cache/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
